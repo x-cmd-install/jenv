@@ -7,7 +7,7 @@ about:
   latestVersion: "0.6.0"
   latestRelease: "0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:50:29Z
+  collectedAt: 2026-09-09T18:51:18Z
 timeline:
   created: 2013-01-24
   lastCommit: 2026-02-22
@@ -84,7 +84,7 @@ total:
   commit: 388
 ---
 path: /home/runner/.x-repo/github.com/jenv/jenv
-collectedAt: 2026-09-09T04:50:30Z
+collectedAt: 2026-09-09T18:51:19Z
 loc:
   Bash:
     code: 1721
