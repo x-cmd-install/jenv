@@ -26,13 +26,13 @@ Total: **1,914** lines of code across **80** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,663 · **Forks**: 396 · **Open issues**: 293 · **Contributors**: 85
+- **Stars**: 6,662 · **Forks**: 396 · **Open issues**: 293 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-10-03 | 1 | 11 | 1 | 3 | 6 | 22 |
-| last720d | 2024-10-08 | 3 | 17 | 1 | 6 | 7 | 61 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-10-04 | 1 | 11 | 1 | 3 | 6 | 22 |
+| last720d | 2024-10-09 | 3 | 17 | 1 | 6 | 7 | 61 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jenv lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:26:05Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:46:50Z._
