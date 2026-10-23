@@ -1,0 +1,104 @@
+- repo: arch
+  subrepo: extra
+  srcname: jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Manage your Java environment
+  licenses:
+    - MIT
+- repo: aur
+  srcname: jenv-git
+  binname: jenv-git
+  visiblename: jenv-git
+  version: 0.5.4.r2.9bbc5eb
+  origversion: 0.5.4.r2.9bbc5eb-1
+  status: rolling
+  summary: A command line tool to manage your Java environment
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Manage your Java environment
+- repo: homebrew
+  srcname: jenv
+  visiblename: jenv
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Manage your Java environment
+- repo: macports
+  srcname: java/jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Master your Java environment with jEnv
+  maintainers:
+    - breun@macports
+    - breun@github
+  licenses:
+    - MIT
+  categories:
+    - java
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Manage your Java environment
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Manage your Java environment
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Manage your Java environment
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: jenv
+  binname: jenv
+  visiblename: jenv
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: newest
+  summary: Manage your Java environment
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: development/jenv
+  visiblename: development/jenv
+  version: 0.5.7
+  origversion: null
+  status: outdated
+  categories:
+    - development
