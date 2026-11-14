@@ -24,16 +24,6 @@ Total: **1,914** lines of code across **80** files in the top 5 languages.
 | Sh | 40 | 10 | 15 | 2 |
 | Zsh | 31 | 2 | 8 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.1 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/jenv/jenv>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,684 · **Forks**: 395 · **Open issues**: 294 · **Contributors**: 85
+- **Stars**: 6,686 · **Forks**: 395 · **Open issues**: 294 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last180d | 2026-05-17 | 0 | 0 | 1 | 1 | 4 | 0 |
-| 360d | 2025-11-18 | 1 | 10 | 1 | 3 | 5 | 21 |
-| last720d | 2024-11-23 | 3 | 16 | 1 | 7 | 7 | 60 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last180d | 2026-05-18 | 0 | 0 | 1 | 1 | 4 | 0 |
+| 360d | 2025-11-19 | 1 | 10 | 1 | 3 | 5 | 21 |
+| last720d | 2024-11-24 | 3 | 16 | 1 | 7 | 7 | 60 |
 
 ## Distribution status
 
@@ -82,4 +72,4 @@ Install metadata for jenv lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:42:29Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:33:12Z._

@@ -24,16 +24,6 @@ x install jenv
 | Sh | 40 | 10 | 15 | 2 |
 | Zsh | 31 | 2 | 8 | 2 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **3.1 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/jenv/jenv>
@@ -47,7 +37,7 @@ x install jenv
 
 ## 流行度
 
-- **Star**: 6,684 · **Fork**: 395 · **开放 issue**: 294 · **贡献者**: 85
+- **Star**: 6,686 · **Fork**: 395 · **开放 issue**: 294 · **贡献者**: 85
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install jenv
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last180d | 2026-05-17 | 0 | 0 | 1 | 1 | 4 | 0 |
-| 360d | 2025-11-18 | 1 | 10 | 1 | 3 | 5 | 21 |
-| last720d | 2024-11-23 | 3 | 16 | 1 | 7 | 7 | 60 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last180d | 2026-05-18 | 0 | 0 | 1 | 1 | 4 | 0 |
+| 360d | 2025-11-19 | 1 | 10 | 1 | 3 | 5 | 21 |
+| last720d | 2024-11-24 | 3 | 16 | 1 | 7 | 7 | 60 |
 
 ## 发行版状态
 
@@ -82,4 +72,4 @@ jenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T06:42:30Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T06:33:12Z._
