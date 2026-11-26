@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,685 · **Forks**: 395 · **Open issues**: 294 · **Contributors**: 85
+- **Stars**: 6,684 · **Forks**: 395 · **Open issues**: 294 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -57,12 +57,21 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 2 | 2 | 3 | 0 |
-| 360d | 2025-11-30 | 1 | 9 | 2 | 4 | 3 | 14 |
-| last720d | 2024-12-05 | 3 | 16 | 2 | 8 | 6 | 60 |
+| 30d | 2026-10-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 2 | 2 | 3 | 0 |
+| 360d | 2025-12-01 | 1 | 8 | 2 | 4 | 3 | 0 |
+| last720d | 2024-12-06 | 3 | 16 | 2 | 8 | 6 | 60 |
+
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/jenv). **8** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.6.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for jenv lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:32:14Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:26:15Z._
